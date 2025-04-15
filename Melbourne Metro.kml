@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
+    <name>Melbourne Metro</name>
 <Style id="blueOverlay">
   <LineStyle>
     <color>ff3366ff</color> <!-- Blue border -->
@@ -10,7 +11,6 @@
     <color>553366ff</color> <!-- Transparent blue fill -->
   </PolyStyle>
 </Style>
-    <name>Melbourne Metro</name>
     <description/>
     <Style id="poly-0288D1-1200-77-normal">
       <LineStyle>
